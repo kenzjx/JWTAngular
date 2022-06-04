@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ASPNETCoreWebAPI
+build_property.ProjectDir = /home/phong/Desktop/Git Clone/ASPNETCore-Angular-Material-HATEOAS-Paging-master/server/aspnetcore/ASPNETCoreWebAPI/
